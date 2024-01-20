@@ -9,6 +9,7 @@ img{
 body{
     background: url(./images/bg.png) no-repeat;
     font-family: 'Poppins';
+    overflow:hidden;
 
 }
 .main{
